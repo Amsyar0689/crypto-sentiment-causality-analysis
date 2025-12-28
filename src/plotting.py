@@ -45,8 +45,8 @@ class Visualizer:
         plt.title('Does Social Mood Follow Price? (Bitcoin vs. Twitter Sentiment)', fontsize=16)
         fig.tight_layout()
         
-        plt.savefig('output/price_vs_sentiment.png')
-        print("Saved to output/price_vs_sentiment.png")
+        plt.savefig('../output/price_vs_sentiment.png')
+        print("Saved to ../output/price_vs_sentiment.png")
         plt.close()
 
     def plot_correlation_heatmap(self, df):
@@ -64,6 +64,6 @@ class Visualizer:
         plt.title('Correlation Matrix: Crypto vs. Social', fontsize=14)
         
         plt.tight_layout()
-        plt.savefig('output/correlation_matrix.png')
-        print("Saved to output/correlation_matrix.png")
+        plt.savefig('../output/correlation_matrix.png')
+        print("Saved to ../output/correlation_matrix.png")
         plt.close()
