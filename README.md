@@ -45,7 +45,7 @@ Using **Natural Language Processing (VADER)** on a dataset of 200,000+ tweets, i
 
 1.  **Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/crypto-sentiment-analysis.git](https://github.com/YOUR_USERNAME/crypto-sentiment-analysis.git)
+git clone [https://github.com/Amsyar0689/crypto-sentiment-analysis.git](https://github.com/Amsyar0689/crypto-sentiment-analysis.git)
 cd crypto-sentiment-analysis
 ```
 
